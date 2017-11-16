@@ -506,3 +506,4 @@ interactive data analytics and collaborative documents with SQL, Scala and more
  - [Awesome Data Science Ideas](https://github.com/JosPolfliet/awesome-datascience-ideas)
  - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 
+
