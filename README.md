@@ -505,5 +505,3 @@ interactive data analytics and collaborative documents with SQL, Scala and more
  - [awesome-Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
  - [Awesome Data Science Ideas](https://github.com/JosPolfliet/awesome-datascience-ideas)
  - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
-
-
